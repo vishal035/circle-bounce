@@ -8,14 +8,6 @@ module.exports = {
       },
       animation: {
         'spin-slow': 'spin 6s linear infinite',
-        'bounce-slow': 'bounce 3s linear infinite',
-      },
-
-      keyframes: {
-        wiggle: {
-          '0%, 100%': { transform: 'rotate(-3deg)' },
-          '50%': { transform: 'rotate(3deg)' },
-        },
       },
     },
   },

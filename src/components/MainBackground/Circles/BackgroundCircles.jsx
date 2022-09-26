@@ -15,6 +15,7 @@ const BackgroundCircles = () => {
 };
 
 export default BackgroundCircles;
+
 /*
 <div className="bg-green-600 relative">
         <svg
